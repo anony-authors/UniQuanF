@@ -33,7 +33,7 @@ grid_search_iters=1 # G
 update_z=True # update zero-point or not
 MAPPING=lpmapping # local and periodic mapping
 
-iters_w=$(expr $num_samples \* $EPOCHS \/ $batch_size_quant) #128*20
+iters_w=$(expr $num_samples \* $EPOCHS \/ $batch_size_quant)
 FILE_NAME=${n_bits_w}_${seed}
 
 output_dir=outputs/${METHOD_NAME}/${model_name_or_path}/${FILE_NAME}
