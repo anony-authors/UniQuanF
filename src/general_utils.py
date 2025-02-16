@@ -1,6 +1,6 @@
 """
 File: general_utils.py
-- A main file for general utility functions
+- A file for general utility functions
 - Reference:
     * https://github.com/huggingface/transformers/blob/main/examples/pytorch/language-modeling/run_clm.py
 """
