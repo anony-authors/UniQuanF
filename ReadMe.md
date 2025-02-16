@@ -28,7 +28,7 @@ UniQuanF
 │   ├─ categories.py        : utility codes for general purpose
 │   ├─ data_utils.py        : utility codes retaining to datasets
 │   ├─ general_utils.py     : utility codes for general purpose
-│   └─ evaluation_utils.py   : utility codes for evaluation
+│   └─ evaluation_utils.py  : utility codes for evaluation
 │
 ├─ scripts                  : a directory for script files
 │   ├─ evaluate.sh          : a script file for evaluating the quanized model
